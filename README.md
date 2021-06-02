@@ -1,5 +1,4 @@
 # mongo-examples
-/Users/blancamorenodeluna/Documents/Ironhack/labs/2_module/startingMongo/mongo-examples/datasets/employees.json
 Mongo Shell Quick Reference:
 
 https://docs.mongodb.com/manual/reference/mongo-shell/
